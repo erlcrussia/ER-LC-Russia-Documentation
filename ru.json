@@ -38,6 +38,14 @@
             "ru/staff-rules/ethical-norms",
             "ru/staff-rules/curator-rules"
           ]
+        },
+        {
+          "group": "Служебные Команды Персонала",
+          "pages": [
+            "komandy-dlya-moderatsii",
+            "komandy-dlya-administratsii",
+            "komandy-dlya-co-owners"
+          ]
         }
       ]
     },
