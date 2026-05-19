@@ -42,9 +42,9 @@
         {
           "group": "Служебные Команды Персонала",
           "pages": [
-            "komandy-dlya-moderatsii",
-            "komandy-dlya-administratsii",
-            "komandy-dlya-co-owners"
+            "ru/staff-rules/moderation-ingame-commands",
+            "ru/staff-rules/administration-ingame-commands",
+            "ru/staff-rules/co-owner-ingame-commands"
           ]
         }
       ]
