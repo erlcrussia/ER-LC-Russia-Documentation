@@ -47,5 +47,12 @@
   },
   "appearance": {
     "default": "dark"
-  }
+  },
+  "redirects": [
+    {
+      "source": "/guides",
+      "destination": "/ru/guides",
+      "permanent": true
+    }
+  ]
 }
