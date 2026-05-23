@@ -1,0 +1,80 @@
+---
+title: "Staff In-Game Commands"
+---
+
+<div id="no-header-here" />
+
+<div className="flex justify-center items-center w-full -mt-8">
+  <h2 className="text-3xl font-bold">Staff In-Game Commands</h2>
+</div>
+
+<div className="flex justify-center items-center w-full -mt-10">
+  <h3 className="text-3xl font-bold">Commands For Moderation+</h3>
+</div>
+
+1. `:tocar` — Allows you to teleport to your car. (works only in a car)
+2. `:toatv` — Allows you to teleport to your buggy, lawnmower, or quad bike. (works only on a motorized vehicle)
+3. `:logs` — Allows you to view server logs.
+4. `:kl` — Allows you to view the kill list on the server.
+5. `:h` — Allows you to notify the entire server.
+6. `:pm player` — Allows you to send a player a private message.
+7. `:m` — Allows you to send all players on the server a private message.
+8. `:tp player` — Allows you to teleport a selected player to you.
+9. `:tp player(who) player(to whom)` — Allows you to teleport a selected player to another player.
+10. `:bring player` — Allows you to teleport a selected player to you.
+11. `:to player` — Allows you to teleport to a selected player.
+12. `:kill player` — Allows you to kill a player.
+13. `:kick player(or id)` — Allows you to kick a player from the server.
+14. `:heal player` — Allows you to restore HP to a player or bring them back to life.
+15. `:time 00 - 23` — Allows you to set the time on the server.
+    - For example: `:time 12` (Sets 12 o'clock noon on the map)
+16. `:wanted player` — Allows you to issue a wanted level to a player.
+17. `:unwanted player` — Allows you to remove the wanted level from a player.
+18. `:cmds` — Allows a player to view the list of commands.
+19. `:refresh player` — Allows you to reload a player's skin.
+20. `:pt number` — This command allows you to create a mode where players cannot damage each other.
+    - For example: `:pt 60` (creates a mode for 60 seconds where no one can be hit or killed)
+21. `:prty` — This command allows you to create a priority mode for a certain amount of time.
+    - For example: `:prty 60` (creates a priority mode for 60 seconds).
+22. `:bans` — This command allows you to view bans.
+23. `:helpers` — This command allows you to view helpers on this server.
+24. `:mods` — This command allows you to view moderators on this server.
+25. `:admins` — This command allows you to view admins on this server.
+26. `:startnearfire string` — This command allows you to start a fire nearby.
+    - `:stopdumpsterfire` — Allows you to stop the fire in a dumpster.
+    - `:stopfire string` — Allows you to stop a fire.
+    - `:starfire string` — Allows you to start a fire.
+
+---
+
+<div className="flex justify-center items-center w-full -mt-14">
+  <h3 className="text-3xl font-bold">Commands For Administration+</h3>
+</div>
+
+1. `:loadlayout string` — Command for Map Editor. Allows you to load a specific map without searching for it manually.
+2. `:unloadlayout string` — Command for Map Editor. Allows you to remove a specific map load.
+3. `:shutdown` — Command created to restart the server. During this, all players will be kicked from the server.
+   <Danger>
+     **This command can only be used with the Owner's permission.**
+   </Danger>
+4. `:weather` — Command allows you to create or remove weather. **For example:**
+   - `:weather fog` — Creates fog on the server.
+   - `:weather snow` — Creates snow on the server.
+   - `:weather thunderstorm` — Creates a thunderstorm on the server.
+   - `:weather rain` — Creates rain on the server.
+   - `:weather clear` — Removes weather on the server.
+5. `:mod player(or id)` — Allows you to give a player the "Moderator" role on the server.
+6. `:unmod player(or id)` — Allows you to remove the "Moderator" role from a player on the server.
+7. `:helper player(or id)` — Allows you to give a player the "Helper" role on the server.
+8. `:unhelper player(or id)` — Allows you to remove the "Helper" role from a player on the server.
+9. `:ban player(or id)` — Allows you to ban a player on the server.
+10. `:unban player(or id)` — Allows you to unban a player on the server.
+
+---
+
+<div className="flex justify-center items-center w-full -mt-14">
+  <h3 className="text-3xl font-bold">Commands For Co-Owners+</h3>
+</div>
+
+1. `:admin player(or id)` — Allows you to give a player the "Administrator" role on the server.
+2. `:unadmin player(or id)` — Allows you to remove the "Administrator" role from a player on the server.
