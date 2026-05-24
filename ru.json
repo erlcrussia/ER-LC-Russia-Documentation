@@ -40,12 +40,11 @@
           ]
         },
         {
-          "group": "Служебные Команды Персонала",
+          "group": "Гайды Для Персонала",
           "pages": [
-            "ru/staff-rules/moderation-ingame-commands",
-            "ru/staff-rules/administration-ingame-commands",
-            "ru/staff-rules/co-owner-ingame-commands"
-          ]
+            "ru/staff-rules/staff-ingame-commands"
+          ],
+          "icon": "compass"
         }
       ]
     },
