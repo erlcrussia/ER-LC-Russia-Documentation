@@ -53,6 +53,11 @@
       "source": "/guides",
       "destination": "/ru/guides",
       "permanent": true
+    },
+    {
+      "source": "/documentation-moscow-roleplay",
+      "destination": "/",
+      "permanent": true
     }
   ]
 }
