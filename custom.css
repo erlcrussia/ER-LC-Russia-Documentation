@@ -239,7 +239,7 @@ footer img[src*="Banner-ERLC-Russia-Docs-System.svg"] {
 }
 
 #sidebar a[href*="discord.gg/MoscowRus"] div:first-child {
-  margin-left: 18px !important; /* Двигает иконку влево */
+  margin-left: 18px !important;
 }
 
 #sidebar a[href*="discord.gg/MoscowRus"] svg {
@@ -249,11 +249,10 @@ footer img[src*="Banner-ERLC-Russia-Docs-System.svg"] {
 }
 
 #sidebar a[href*="discord.gg/MoscowRus"] {
-  margin-left: 0 !important; /* Убираем стандартный отступ Tailwind */
-  padding-left: 0 !important; /* На всякий случай обнуляем паддинг, если он мешает */
+  margin-left: 0 !important;
+  padding-left: 0 !important;
 }
 
-/* 2. Стили для мобильной версии (#mobile-nav) */
 #mobile-nav a[href*="discord.gg/MoscowRus"] div:first-child {
   background: transparent !important;
   outline: none !important;
