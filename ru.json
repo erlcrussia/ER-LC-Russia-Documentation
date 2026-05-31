@@ -23,6 +23,15 @@
             "ru/server-rules/fractions-rules/fractions-rules",
             "ru/server-rules/fractions-rules/lider-rules"
           ]
+        },
+        {
+          "group": "Гражданские Операции",
+          "icon": "shop",
+          "pages": [
+            "ru/server-rules/civilian-operations/busines-rules",
+            "ru/server-rules/civilian-operations/opg-rules",
+            "ru/server-rules/civilian-operations/chop-rules"
+          ]
         }
       ]
     },

@@ -23,6 +23,15 @@
             "en/server-rules/fractions-rules/fractions-rules",
             "en/server-rules/fractions-rules/lider-rules"
           ]
+        },
+        {
+          "group": "Civilian Operations",
+          "icon": "shop",
+          "pages": [
+            "en/server-rules/civilian-operations/busines-rules",
+            "en/server-rules/civilian-operations/opg-rules",
+            "en/server-rules/civilian-operations/chop-rules"
+          ]
         }
       ]
     },
