@@ -62,6 +62,7 @@
             {
               "group": "Update V0.5",
               "pages": [
+                "en/changelogs/changelog-v0.5/changelog-v0.5.2",
                 "en/changelogs/changelog-v0.5/changelog-v0.5.1"
               ]
             },
