@@ -29,8 +29,7 @@
           "icon": "shop",
           "pages": [
             "ru/server-rules/civilian-operations/busines-rules",
-            "ru/server-rules/civilian-operations/opg-rules",
-            "ru/server-rules/civilian-operations/chop-rules"
+            "ru/server-rules/civilian-operations/opg-rules"
           ]
         }
       ]
@@ -44,6 +43,7 @@
           "icon": "scale-balanced",
           "pages": [
             "ru/staff-rules/staff-regulations",
+            "ru/staff-rules/erlc-staff-rules",
             "ru/staff-rules/ethical-norms",
             "ru/staff-rules/curator-rules"
           ]
